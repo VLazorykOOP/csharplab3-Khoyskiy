@@ -12,7 +12,7 @@ namespace Lab3CSharp
 			}
 		public virtual void Show()
 		{
-			Console.WriteLine($"Кількість ніг: {legs}, Вид тварини {type}");
+			Console.WriteLine($"Кількістьdsada ніг: {legs}, Вид тварини {type}");
 		}
 	}
 }
